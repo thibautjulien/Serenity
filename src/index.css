@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+
+  background-image: url("./assets/background.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  color: #eaf2ff;
+  overflow-x: hidden;
+}
