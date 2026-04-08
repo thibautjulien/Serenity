@@ -47,9 +47,9 @@ Ces technologies permettent de proposer un site **rapide, moderne et responsive*
 
 ---
 
-## 🌐 Déploiement
+## 🌐 Accéder au site
 
-Le site est automatiquement déployé avec **Vercel** à chaque mise à jour du dépôt GitHub.
+👉 [Voir le site](https://thibautjulien.be/serenity/)
 
 ---
 
@@ -69,7 +69,3 @@ alors **Serenity pourrait bien être ta prochaine aventure**.
 
 Ce projet est destiné au site officiel de la guilde **Serenity**.
 Tous droits réservés © Serenity.
-# Serenyth
-# Serenity
-# Serenity
-# Serenity
